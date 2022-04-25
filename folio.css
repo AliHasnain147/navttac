@@ -1,0 +1,49 @@
+.imgcircle
+{
+    background-color: aqua;
+    border-radius: 50%;
+    width: fit-content;
+    width: 60%;
+    text-align: center;
+    height: 30vh;
+    margin-left: 20%;
+    margin-top: 40px;
+    background-image: url(img/ali\ hasnain.jpg);
+    background-position: center;
+    background-size: cover;
+}
+ul{
+    color: black;
+    margin-left: 30%;
+    
+}
+ul li{
+    margin: 5%;
+    margin-top: 10%;
+    border: none;
+    color: black;
+
+}
+.devolp2{
+    margin-left: 1%;
+}
+.devolp3{
+    margin-left: 35%;
+}
+.devolp{
+    margin-left: 25%;
+}
+.wraper{
+    overflow: hidden;
+}
+.devolpxyz{
+    margin-left: 24%;
+}
+.imgmain ul{
+    display: flex;
+    color: aqua;
+}
+.imgmain ul li 
+{
+    margin-left: 14%;
+}
